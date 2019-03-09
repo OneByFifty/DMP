@@ -1,6 +1,6 @@
 name: DMP
 channels:
-  - conda-forge
+  - conda
 dependencies:
   - python
   - numpy
