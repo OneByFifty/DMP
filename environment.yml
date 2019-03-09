@@ -1,6 +1,6 @@
 name: DMP
 channels:
-  - conda
+  - default
 dependencies:
   - python
   - numpy
