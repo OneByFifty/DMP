@@ -1,14 +1,9 @@
-name: example-environment
+name: DMP
 channels:
   - conda-forge
 dependencies:
   - python
   - numpy
-  - psutil
-  - toolz
+  - datetime
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
-  - dask
